@@ -1,2 +1,15 @@
 # Austin-Crime-Analytics-Dashboard-NIBRS-Group-A-Offenses
-Interactive Power BI dashboard analyzing Austin Police Department's NIBRS Group A offenses from 2020 to 2024. Visualizes crime trends by council district, month, and crime category. Helps stakeholders understand public safety patterns across Austin.
+This project focuses on analyzing and visualizing crime data reported by the Austin Police Department (APD), specifically NIBRS (National Incident-Based Reporting System) Group A offenses. The dashboard enables stakeholders to explore crime trends across Austin's city council districts, APD sectors, and specific categories over the years 2020–2024.
+
+Key features include:
+
+1. Dynamic filters for Year, Month, Council District, APD Sector, and NIBRS Crime Category.
+2. Interactive visuals showing:
+3. Crimes by Council District
+4. Crime trends by Month and Year
+5. Crime breakdown by NIBRS Group
+6. Detailed NIBRS Crime Descriptions by year
+7.Color-coded cards and line graphs to highlight seasonal and geographical trends.
+
+
+This project provides critical insights to city planners, law enforcement, and community organizations to help improve public safety strategies and resource allocation.
