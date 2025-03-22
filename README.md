@@ -5,10 +5,15 @@ Key features include:
 
 1. Dynamic filters for Year, Month, Council District, APD Sector, and NIBRS Crime Category.
 2. Interactive visuals showing:
+   
      Crimes by Council District
+   
      Crime trends by Month and Year
+   
      Crime breakdown by NIBRS Group
+   
      Detailed NIBRS Crime Descriptions by year
+   
      Color-coded cards and line graphs to highlight seasonal and geographical trends.
 
 
